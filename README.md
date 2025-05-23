@@ -26,7 +26,7 @@ pip install -r requirements.txt
 follow the examples at the examples folder. 
 
 ## Performance
-If sampling takes too long reduce the number of samples in the dataset (batch size), the number they used in the paper is around 500, the number of steps and M can also be reduces.
+If sampling takes too long, reduce the number of samples in the dataset (batch size). The number in the paper is around 500. steps and M can also be reduces.
 
 ### parameters:
 * z_0: Inital distribution.
